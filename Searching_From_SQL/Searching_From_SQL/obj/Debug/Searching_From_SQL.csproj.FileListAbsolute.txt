@@ -1,0 +1,12 @@
+D:\Projects\C# projects\Code\Searching_From_SQL\Searching_From_SQL\obj\Debug\Searching_From_SQL.csproj.AssemblyReference.cache
+D:\Projects\C# projects\Code\Searching_From_SQL\Searching_From_SQL\obj\Debug\Searching_From_SQL.csproj.SuggestedBindingRedirects.cache
+D:\Projects\C# projects\Code\Searching_From_SQL\Searching_From_SQL\obj\Debug\Searching_From_SQL.Form1.resources
+D:\Projects\C# projects\Code\Searching_From_SQL\Searching_From_SQL\obj\Debug\Searching_From_SQL.Properties.Resources.resources
+D:\Projects\C# projects\Code\Searching_From_SQL\Searching_From_SQL\obj\Debug\Searching_From_SQL.csproj.GenerateResource.cache
+D:\Projects\C# projects\Code\Searching_From_SQL\Searching_From_SQL\obj\Debug\Searching_From_SQL.csproj.CoreCompileInputs.cache
+D:\Projects\C# projects\Code\Searching_From_SQL\Searching_From_SQL\bin\Debug\Searching_From_SQL.exe.config
+D:\Projects\C# projects\Code\Searching_From_SQL\Searching_From_SQL\bin\Debug\Searching_From_SQL.exe
+D:\Projects\C# projects\Code\Searching_From_SQL\Searching_From_SQL\bin\Debug\Searching_From_SQL.pdb
+D:\Projects\C# projects\Code\Searching_From_SQL\Searching_From_SQL\obj\Debug\Searching_From_SQL.exe
+D:\Projects\C# projects\Code\Searching_From_SQL\Searching_From_SQL\obj\Debug\Searching_From_SQL.pdb
+D:\Projects\C# projects\Code\Searching_From_SQL\Searching_From_SQL\obj\Debug\Searching_From_SQL.Form2.resources
